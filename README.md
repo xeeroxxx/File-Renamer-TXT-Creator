@@ -15,7 +15,7 @@ A Python script to rename files in bulk within a specified folder and create cor
 ### Setup
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourxeeroxxx/file-renamer-txt-creator.git
+    git clone https://github.com/xeeroxxx/file-renamer-txt-creator.git
     ```
 2. Navigate to the project directory:
     ```bash
